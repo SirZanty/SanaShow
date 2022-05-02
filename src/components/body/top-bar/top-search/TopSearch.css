@@ -1,0 +1,16 @@
+.top-search{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 16px;
+}
+
+.a-p-inputtext{
+    width: 100%;
+}
+
+.p-inputtext{
+    width: 100%;
+    background-color: rgb(240, 250, 230);
+}

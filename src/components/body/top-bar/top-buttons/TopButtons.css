@@ -1,0 +1,6 @@
+.top-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 5px 5px 5px;
+}
